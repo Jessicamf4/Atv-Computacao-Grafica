@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 from PIL import Image
-from util import get_limits
+from IdentificacaoCores.util import get_limits
 
 red = [255, 0, 0]
 
